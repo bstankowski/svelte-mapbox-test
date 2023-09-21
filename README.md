@@ -1,4 +1,4 @@
-Just trying out [Mapbox](https://www.mapbox.com) with Svelte.
+Just trying out some basic features of [Mapbox](https://www.mapbox.com) with Svelte.
 
 ---
 
