@@ -1,5 +1,7 @@
 Just trying out some basic features of [Mapbox](https://www.mapbox.com) with Svelte.
 
+<img width="1017" alt="" src="https://github-production-user-asset-6210df.s3.amazonaws.com/425203/269700084-6ff61fd0-73a7-4b41-827d-71b7f99a2587.png">
+
 ---
 
 # create-svelte
